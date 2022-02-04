@@ -8,3 +8,6 @@ else:
     print("Prepare GitHub")
     print("Prepare Docker")
     print("Prepare Kubernaties")
+    print("Prepare Linux")
+    print("Prepare CICD")
+    print("Prepare Cloud compute")
