@@ -6,3 +6,7 @@ else:
     print("Prepare GitHub")
     print("Prepare Docker")
     print("Prepare Kubernaties")
+    print("Prepare CICD")
+    print("Prepare Linux")
+    print("Prepare ShellScript")
+    print("Prepare BashShell")
