@@ -4,3 +4,5 @@ if hungry == "yes":
 else:
     print("Prepare DevOps")
     print("Prepare GitHub")
+    print("Prepare Docker")
+    print("Prepare Kubernaties")
