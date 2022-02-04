@@ -7,8 +7,8 @@ if hungry == "yes":
 else:
     thresty = input ("are you thresty?")
     if thresty=="yes":
-        print("Drint Beer ....!")
-        print("Drint cock ....!")
+     print("Drint Beer ....!")
+    print("Drint cock ....!")
     print("Prepare DevOps")
     print("Prepare GitHub")
     print("Prepare Docker")
